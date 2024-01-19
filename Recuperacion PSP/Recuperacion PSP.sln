@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jerarquia de Clases", "Jerarquia de Clases\Jerarquia de Clases.csproj", "{7E1B6713-158D-476B-B97B-9196DA67CDA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuerza Bruta", "Fuerza Bruta\Fuerza Bruta.csproj", "{1199AB72-F31E-4621-B92D-BD900E92BD28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E1B6713-158D-476B-B97B-9196DA67CDA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1B6713-158D-476B-B97B-9196DA67CDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1B6713-158D-476B-B97B-9196DA67CDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1B6713-158D-476B-B97B-9196DA67CDA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1199AB72-F31E-4621-B92D-BD900E92BD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1199AB72-F31E-4621-B92D-BD900E92BD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1199AB72-F31E-4621-B92D-BD900E92BD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1199AB72-F31E-4621-B92D-BD900E92BD28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
