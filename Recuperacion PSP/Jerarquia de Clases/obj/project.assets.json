@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
+      "projectUniqueName": "C:\\Users\\josem\\Desktop\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
       "projectName": "Jerarquia de Clases",
-      "projectPath": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
+      "projectPath": "C:\\Users\\josem\\Desktop\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
       "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\obj\\",
+      "outputPath": "C:\\Users\\josem\\Desktop\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,12 +54,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\josem\\.dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

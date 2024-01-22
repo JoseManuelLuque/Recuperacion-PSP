@@ -1,0 +1,5 @@
+C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.AssemblyInfoInputs.cache
+C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.AssemblyInfo.cs
+C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.csproj.CoreCompileInputs.cache
+C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.sourcelink.json
