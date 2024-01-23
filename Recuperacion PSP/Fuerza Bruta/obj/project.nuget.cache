@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fpU6H75yODQRNR+NriBHy4yBwJZi3HMiNrgGc46/TGCv0JkNTiehj/yRBLVQjai56ebl90bIgUIxJTskmhtzBw==",
+  "dgSpecHash": "40wfttPtuokJWskFPrKsmtmNzCsXKq6Xkh5gjhBwUhMYHLn8a1ldTBKkuCCPR+EoQ/qJAFvAXbH6JJqvlVNGjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josem\\Desktop\\Recuperacion-PSP\\Recuperacion PSP\\Fuerza Bruta\\Fuerza Bruta.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\josem\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\josem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\josem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\josem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Fuerza Bruta\\Fuerza Bruta.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

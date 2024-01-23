@@ -1,4 +1,7 @@
-﻿public interface IGrafico
+﻿Console.WriteLine("MONDONGO");
+
+
+public interface IGrafico
 {
     bool Mover(int x, int y);
     void Dibujar();
@@ -11,7 +14,7 @@ public class GraficoCompuesto : IGrafico
     public bool Mover(int x, int y)
     {
         // Implementación de la lógica para mover el grafo compuesto
-        throw new NotImplementedException();
+        return false;
     }
 
     public void Dibujar()
@@ -31,8 +34,8 @@ public class GraficoCompuesto : IGrafico
 
 public class Punto
 {
-    public int X { get; }
-    public int Y { get; }
+    public int X;
+    public int Y;
 
     public Punto(int x, int y)
     {
@@ -55,7 +58,7 @@ public class Circulo : IGrafico
     public bool Mover(int x, int y)
     {
         // Implementación de la lógica para mover el círculo
-        throw new NotImplementedException();
+        return false;
     }
 
     public void Dibujar()
@@ -81,7 +84,7 @@ public class Rectangulo : IGrafico
     public bool Mover(int x, int y)
     {
         // Implementación de la lógica para mover el rectángulo
-        throw new NotImplementedException();
+        return false;
     }
 
     public void Dibujar()

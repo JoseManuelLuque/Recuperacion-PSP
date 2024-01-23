@@ -3,3 +3,17 @@ C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj
 C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.AssemblyInfo.cs
 C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.csproj.CoreCompileInputs.cache
 C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.sourcelink.json
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\bin\Debug\net7.0\Jerarquia de Clases.exe
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\bin\Debug\net7.0\Jerarquia de Clases.deps.json
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\bin\Debug\net7.0\Jerarquia de Clases.runtimeconfig.json
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\bin\Debug\net7.0\Jerarquia de Clases.dll
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\bin\Debug\net7.0\Jerarquia de Clases.pdb
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.AssemblyInfoInputs.cache
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.AssemblyInfo.cs
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.csproj.CoreCompileInputs.cache
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.dll
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\refint\Jerarquia de Clases.dll
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.pdb
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.genruntimeconfig.cache
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\ref\Jerarquia de Clases.dll

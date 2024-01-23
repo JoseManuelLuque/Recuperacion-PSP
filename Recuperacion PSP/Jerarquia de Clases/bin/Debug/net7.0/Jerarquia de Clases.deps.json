@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Jerarquia de Clases/1.0.0": {
+        "runtime": {
+          "Jerarquia de Clases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jerarquia de Clases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
