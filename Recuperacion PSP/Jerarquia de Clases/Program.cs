@@ -1,4 +1,7 @@
-﻿public interface IGrafico
+﻿Console.WriteLine("MONDONGO");
+
+
+public interface IGrafico
 {
     bool Mover(int x, int y);
     void Dibujar();
@@ -31,8 +34,8 @@ public class GraficoCompuesto : IGrafico
 
 public class Punto
 {
-    public int X { get; }
-    public int Y { get; }
+    public int X;
+    public int Y;
 
     public Punto(int x, int y)
     {
@@ -43,8 +46,8 @@ public class Punto
 
 public class Circulo : IGrafico
 {
-    public Punto Centro { get; }
-    public int Radio { get; }
+    public Punto Centro;
+    public int Radio;
 
     public Circulo(int x, int y, int radio)
     {
@@ -67,9 +70,9 @@ public class Circulo : IGrafico
 
 public class Rectangulo : IGrafico
 {
-    public Punto EsquinaSuperiorIzquierda { get; }
-    public int Ancho { get; }
-    public int Alto { get; }
+    public Punto EsquinaSuperiorIzquierda;
+    public int Ancho;
+    public int Alto;
 
     public Rectangulo(int x, int y, int ancho, int alto)
     {

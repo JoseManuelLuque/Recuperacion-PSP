@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josem\\Desktop\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
+      "projectUniqueName": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
       "projectName": "Jerarquia de Clases",
-      "projectPath": "C:\\Users\\josem\\Desktop\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
+      "projectPath": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
       "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josem\\Desktop\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\obj\\",
+      "outputPath": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,6 +54,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+<<<<<<< HEAD
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
@@ -72,12 +73,18 @@
             "version": "[7.0.15, 7.0.15]"
           }
         ],
+=======
+>>>>>>> 8ecca8e362c06d083e1e4f62c632dc0c17beaa65
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+>>>>>>> 8ecca8e362c06d083e1e4f62c632dc0c17beaa65
       }
     }
   }
