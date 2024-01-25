@@ -11,7 +11,7 @@ public class GraficoCompuesto : IGrafico
     public bool Mover(int x, int y)
     {
         // Implementación de la lógica para mover el grafo compuesto
-        throw new NotImplementedException();
+        return false;
     }
 
     public void Dibujar()
@@ -55,7 +55,7 @@ public class Circulo : IGrafico
     public bool Mover(int x, int y)
     {
         // Implementación de la lógica para mover el círculo
-        throw new NotImplementedException();
+        return false;
     }
 
     public void Dibujar()
@@ -81,7 +81,7 @@ public class Rectangulo : IGrafico
     public bool Mover(int x, int y)
     {
         // Implementación de la lógica para mover el rectángulo
-        throw new NotImplementedException();
+        return false;
     }
 
     public void Dibujar()
