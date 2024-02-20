@@ -1,6 +1,4 @@
-﻿Console.WriteLine("MONDONGO");
-
-
+﻿Console.WriteLine("");
 public interface IGrafico
 {
     bool Mover(int x, int y);
