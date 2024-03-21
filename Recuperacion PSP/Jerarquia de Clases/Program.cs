@@ -1,4 +1,7 @@
-﻿Console.WriteLine("");
+﻿
+//Controlader
+
+
 public interface IGrafico
 {
     bool Mover(int x, int y);

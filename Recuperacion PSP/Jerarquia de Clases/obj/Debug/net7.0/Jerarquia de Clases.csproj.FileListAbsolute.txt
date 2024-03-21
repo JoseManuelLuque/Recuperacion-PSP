@@ -17,3 +17,6 @@ C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Cla
 C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.pdb
 C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.genruntimeconfig.cache
 C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\ref\Jerarquia de Clases.dll
+C:\Users\josem\Desktop\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.dll
+C:\Users\josem\Desktop\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\refint\Jerarquia de Clases.dll
+C:\Users\josem\Desktop\PSP\Recuperacion-PSP\Recuperacion PSP\Jerarquia de Clases\obj\Debug\net7.0\Jerarquia de Clases.pdb
