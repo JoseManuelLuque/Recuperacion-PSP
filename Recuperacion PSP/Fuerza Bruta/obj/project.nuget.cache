@@ -1,6 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "XZIFRcVWNCcLMCc0pCj2QQ9b4OWe7y4jDY22jYt7Ky9FxbZMxPJcZMxADSESfU66cnYtgQbt1CKjPagf54URhw==",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "9/EU9jrawel32HJShYhjn0BIcugenKYdwnKS+6OeAyAazADJZ94oAbxzaXeCRqytZmGrgOw3vvjNFocItY7iCg==",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "39HKv+INQl9YrQSsXqj4IKkgLrXv7w7NzW/riPcMsfNE0NFQRIIRForC3faxuenHejmKG2BB6pF+2xx3um5Zfg==",
+>>>>>>> 3a2441c98fdbc08a303b8aa087c3847e5b05316a
   "success": true,
   "projectFilePath": "C:\\Users\\josem\\Desktop\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Fuerza Bruta\\Fuerza Bruta.csproj",
   "expectedPackageFiles": [
@@ -9,6 +17,7 @@
     "C:\\Users\\josem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
     "C:\\Users\\josem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
   ],
+<<<<<<< HEAD
   "logs": [
     {
       "code": "Undefined",
@@ -17,4 +26,14 @@
       "message": "Problem reading the cache file C:\\Users\\josem\\Desktop\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Fuerza Bruta\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
+=======
+=======
+  "dgSpecHash": "40wfttPtuokJWskFPrKsmtmNzCsXKq6Xkh5gjhBwUhMYHLn8a1ldTBKkuCCPR+EoQ/qJAFvAXbH6JJqvlVNGjA==",
+>>>>>>> 8f26b23820941aad9b4f44742f6d63f75ca2ed03
+  "success": true,
+  "projectFilePath": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Fuerza Bruta\\Fuerza Bruta.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 8ecca8e362c06d083e1e4f62c632dc0c17beaa65
+  "logs": []
+>>>>>>> 3a2441c98fdbc08a303b8aa087c3847e5b05316a
 }

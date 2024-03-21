@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\bin\Debug\net7.0\Fuerza Bruta.exe
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\bin\Debug\net7.0\Fuerza Bruta.deps.json
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\bin\Debug\net7.0\Fuerza Bruta.runtimeconfig.json
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\bin\Debug\net7.0\Fuerza Bruta.dll
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\bin\Debug\net7.0\Fuerza Bruta.pdb
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\net7.0\Fuerza Bruta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\net7.0\Fuerza Bruta.AssemblyInfoInputs.cache
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\net7.0\Fuerza Bruta.AssemblyInfo.cs
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\net7.0\Fuerza Bruta.csproj.CoreCompileInputs.cache
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\net7.0\Fuerza Bruta.dll
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\net7.0\refint\Fuerza Bruta.dll
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\net7.0\Fuerza Bruta.pdb
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\net7.0\Fuerza Bruta.genruntimeconfig.cache
+C:\Users\josem\Escritorio\PSP\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\net7.0\ref\Fuerza Bruta.dll
+=======
 C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\bin\Debug\net7.0\Fuerza Bruta.exe
 C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\bin\Debug\net7.0\Fuerza Bruta.deps.json
 C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\bin\Debug\net7.0\Fuerza Bruta.runtimeconfig.json
@@ -13,3 +29,4 @@ C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\
 C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\net7.0\Fuerza Bruta.pdb
 C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\net7.0\Fuerza Bruta.genruntimeconfig.cache
 C:\Users\josem\Desktop\Recuperacion-PSP\Recuperacion PSP\Fuerza Bruta\obj\Debug\net7.0\ref\Fuerza Bruta.dll
+>>>>>>> 8f26b23820941aad9b4f44742f6d63f75ca2ed03
