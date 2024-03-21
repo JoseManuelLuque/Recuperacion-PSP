@@ -1,24 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "hFILAQNmCV+/TEwydtR6T+qwgdNIQqvT2ai0n3cvaIycN4lk2O98pOwDaMerkY1MVMhDBFganWOXq5DKi05C2g==",
-=======
-<<<<<<< HEAD
-  "dgSpecHash": "x04hZ/nPCaxz7zk/C4gQyt+B4qFaab5w1QY1x7OF/31I6bNa9A//L9L9zoINEBfIi1mUNj1RNND+idwKkuIKhQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\josem\\Desktop\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\josem\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\josem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\josem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\josem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
-  ],
-=======
-  "dgSpecHash": "xoPELbmGfRrXCnAN3XbFpl1c2XPzFEjn42k1CH3OSdSofQqaRG4nPUDRw8DPZhvxO8lRv0khZ6X3MqPTCOPN8g==",
->>>>>>> 8f26b23820941aad9b4f44742f6d63f75ca2ed03
   "success": true,
   "projectFilePath": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
   "expectedPackageFiles": [],
->>>>>>> 8ecca8e362c06d083e1e4f62c632dc0c17beaa65
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
