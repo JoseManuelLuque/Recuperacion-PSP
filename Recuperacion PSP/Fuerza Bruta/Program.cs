@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿// Ejemplo de como crear un archivo introducirle lineas por codgio y impresion de todas las lineas una por una
 
 //Creamos un fichero y con el usiong le decimos que meta toda esas lineas
@@ -74,3 +75,6 @@ static string Encrypt(string originalString)
 
     return result;
 }
+=======
+Console.WriteLine("Hello, World!");
+>>>>>>> 8f26b23820941aad9b4f44742f6d63f75ca2ed03
