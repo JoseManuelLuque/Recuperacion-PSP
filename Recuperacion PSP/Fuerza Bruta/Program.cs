@@ -30,10 +30,12 @@ var itemRandom = random.Next(lineasArchivo.Count);
 var password = lineasArchivo[itemRandom];
 var encryptedPassword = Encrypt(password);
 var result = BruteForce(Encrypt(password), lineasArchivo);
+
 if (result != null)
 {
     Console.WriteLine(result);
 }
+
 else
 {
     Console.WriteLine("contraseña null");
@@ -59,8 +61,6 @@ for (int i = 0; i < numberOfThreads; i++)
 
 Console.WriteLine(password);
 Console.WriteLine(Encrypt(password));
-
-
 
 static string Encrypt(string originalString)
 {
