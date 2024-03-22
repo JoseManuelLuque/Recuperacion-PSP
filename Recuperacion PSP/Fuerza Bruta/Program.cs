@@ -1,6 +1,12 @@
 using System.Security.Cryptography;
 using System.Text;
 
+// Leemos el archivo con las contraseñas y lo pasamos a una lista
+List<string> listaPasswords = File.ReadAllLines("C:\\Users\\josem\\Escritorio\\PSP\\passwords.txt").ToList();
+
+Console.Write("Codigo Hash: ");
+var passwordEncriptada = Console.ReadLine();
+
 // FUNCIONES
 
 // Pasa la palabra intoducida por parametros a su codigo en SHA-256
@@ -28,6 +34,11 @@ string BruteForce(string hashCode, List<string> passwordList)
     return null;
 }
 
+void FuncionThread()
+{
+    
+}
+
 // Prueba Escritura
 // using (StreamWriter writer = new StreamWriter("C:\\Users\\josem\\Escritorio\\PSP\\Archivo.txt"))
 // {
@@ -35,21 +46,22 @@ string BruteForce(string hashCode, List<string> passwordList)
 //     writer.WriteLine("Linea 2");
 // }
 
-// Leemos el archivo con las contraseñas y lo pasamos a una lista
-List<string> lineasArchivo = File.ReadAllLines("C:\\Users\\josem\\Escritorio\\PSP\\passwords.txt").ToList();
 
 var random = new Random();
-var itemRandom = random.Next(lineasArchivo.Count);
-var password = lineasArchivo[itemRandom];
+var itemRandom = random.Next(listaPasswords.Count);
+var password = listaPasswords[itemRandom];
 var encryptedPassword = Encrypt(password);
-var result = BruteForce(Encrypt(password), lineasArchivo);
+var result = BruteForce(Encrypt(password), listaPasswords);
 
 
 int numberOfThreads = 5;
-var step = lineasArchivo.Count / numberOfThreads;
+var threadReader = listaPasswords.Count / numberOfThreads;
 for (int i = 0; i < numberOfThreads; i++)
 {
-    new Thread(() => BruteForce(Encrypt(password), lineasArchivo.GetRange(i * step, step)));
+    //new Thread(() => BruteForce(Encrypt(password), lineasArchivo.GetRange(i * step, step)));
+    Thread thread = new Thread(new ThreadStart(FuncionThread));
+    thread.Start();
+    thread.Join();
 }
 
 Console.WriteLine(password);
