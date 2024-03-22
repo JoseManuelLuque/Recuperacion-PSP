@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-﻿// Ejemplo de como crear un archivo introducirle lineas por codgio y impresion de todas las lineas una por una
-
+// Ejemplo de como crear un archivo introducirle lineas por codgio y impresion de todas las lineas una por una
 //Creamos un fichero y con el usiong le decimos que meta toda esas lineas
 
 using System.Security.Cryptography;
 using System.Text;
 
-using (StreamWriter writer = new StreamWriter("Archivo1.txt"))
+using (StreamWriter writer = new StreamWriter("C:\\Users\\josem\\Desktop\\PSP\\Archivo.txt"))
 {
     writer.WriteLine("Linea 1");
     writer.WriteLine("Linea 2");
@@ -75,6 +73,3 @@ static string Encrypt(string originalString)
 
     return result;
 }
-=======
-Console.WriteLine("Hello, World!");
->>>>>>> 8f26b23820941aad9b4f44742f6d63f75ca2ed03
