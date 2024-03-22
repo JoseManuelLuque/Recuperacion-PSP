@@ -1,6 +1,8 @@
 ﻿
-//Controlader
+//Controladores
 
+//Solo para solucionar que falta el main
+Console.WriteLine("");
 
 public interface IGrafico
 {
