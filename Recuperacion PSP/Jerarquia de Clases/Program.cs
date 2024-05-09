@@ -4,7 +4,7 @@ namespace Jerarquia_de_Clases;
 public class JerarquiaDeClases
 {   
     // Funcion Main, codigo a ejecutar
-    static void Main(string[] args)
+    static void Main()
     {   
         //Comprobacion de Punto
         Console.WriteLine("Punto: ");
@@ -24,12 +24,20 @@ public class JerarquiaDeClases
         
         var rectangulo = new Rectangulo(10, 15, 5, 2);
         Console.WriteLine(rectangulo.Dibujar());
+        rectangulo.Mover(1, 2);
+        Console.WriteLine(rectangulo.Dibujar());
+        rectangulo.Mover(0, -1);
+        Console.WriteLine(rectangulo.Dibujar());
         
         //Separación
         Console.WriteLine();
         
         //Prueba Circulo
         var circulo = new Circulo(200, 200, 10);
+        Console.WriteLine(circulo.Dibujar());
+        circulo.Mover(1, 2);
+        Console.WriteLine(circulo.Dibujar());
+        circulo.Mover(0, -1);
         Console.WriteLine(circulo.Dibujar());
     }
     
@@ -117,8 +125,16 @@ public class JerarquiaDeClases
 
         public bool Mover(int x, int y)
         {
-            // Implementación de la lógica para mover el círculo
-            return false;
+            //Comporbamos que el circulo no se salga de la pantalla
+            if ((Centro.X + x) > 600 || (Centro.X + x) < 0 || (Centro.Y + y) > 800 || ((Centro.X + x) < 0))
+            {
+                return false;
+            }
+            
+            //Y si no se sale le cambiamos los valores al la esquina del rectangulo y devolvemos un true como que se ha podido mover
+            Centro.X += x;
+            Centro.Y += y;
+            return true;
         }
 
         public string Dibujar()
@@ -144,7 +160,7 @@ public class JerarquiaDeClases
         // Implementación de la lógica para mover el rectángulo
         public bool Mover(int x, int y)
         {
-            //Comporbamos que el punto no se salga de la pantalla
+            //Comporbamos que el rectangulo no se salga de la pantalla
             if ((EsquinaSuperiorIzquierda.X + x) > 600 || (EsquinaSuperiorIzquierda.X + x) < 0 || (EsquinaSuperiorIzquierda.Y + y) > 800 || ((EsquinaSuperiorIzquierda.X + x) < 0))
             {
                 return false;
