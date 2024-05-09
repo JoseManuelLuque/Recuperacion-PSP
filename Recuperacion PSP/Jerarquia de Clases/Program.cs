@@ -141,16 +141,25 @@ public class JerarquiaDeClases
             Alto = alto;
         }
 
+        // Implementación de la lógica para mover el rectángulo
         public bool Mover(int x, int y)
         {
-            // Implementación de la lógica para mover el rectángulo
-            return false;
+            //Comporbamos que el punto no se salga de la pantalla
+            if ((EsquinaSuperiorIzquierda.X + x) > 600 || (EsquinaSuperiorIzquierda.X + x) < 0 || (EsquinaSuperiorIzquierda.Y + y) > 800 || ((EsquinaSuperiorIzquierda.X + x) < 0))
+            {
+                return false;
+            }
+            
+            //Y si no se sale le cambiamos los valores al la esquina del rectangulo y devolvemos un true como que se ha podido mover
+            EsquinaSuperiorIzquierda.X += x;
+            EsquinaSuperiorIzquierda.Y += y;
+            return true;
         }
 
+        // Implementación de la lógica para dibujar el rectángulo
         public string Dibujar()
         {
-            // Implementación de la lógica para dibujar el rectángulo
-            return ($"Rectangulo: Esquin superior izquierda({EsquinaSuperiorIzquierda.X}, {EsquinaSuperiorIzquierda.Y}), Ancho={Ancho}, Alto={Alto}");
+            return ($"Rectangulo: Esquina superior izquierda({EsquinaSuperiorIzquierda.X}, {EsquinaSuperiorIzquierda.Y}), Ancho={Ancho}, Alto={Alto}");
         }
     }
 }
