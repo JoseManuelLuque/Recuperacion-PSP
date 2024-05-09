@@ -7,12 +7,30 @@ public class JerarquiaDeClases
     static void Main(string[] args)
     {   
         //Comprobacion de Punto
+        Console.WriteLine("Punto: ");
+        
         var punto1 = new Punto(1, 1);
         Console.WriteLine(punto1.Dibujar());
         punto1.Mover(1, 2);
         Console.WriteLine(punto1.Dibujar());
         punto1.Mover(0, -1);
         Console.WriteLine(punto1.Dibujar());
+        
+        //Separación
+        Console.WriteLine();
+        
+        //Prueba Rectangulo
+        Console.WriteLine("Rectangulo: ");
+        
+        var rectangulo = new Rectangulo(10, 15, 5, 2);
+        Console.WriteLine(rectangulo.Dibujar());
+        
+        //Separación
+        Console.WriteLine();
+        
+        //Prueba Circulo
+        var circulo = new Circulo(200, 200, 10);
+        Console.WriteLine(circulo.Dibujar());
     }
     
     public interface IGrafico
@@ -132,7 +150,7 @@ public class JerarquiaDeClases
         public string Dibujar()
         {
             // Implementación de la lógica para dibujar el rectángulo
-            return ($"Rectangulo: EsquinaSuperiorIzquierda({EsquinaSuperiorIzquierda.X}, {EsquinaSuperiorIzquierda.Y}), Ancho={Ancho}, Alto={Alto}");
+            return ($"Rectangulo: Esquin superior izquierda({EsquinaSuperiorIzquierda.X}, {EsquinaSuperiorIzquierda.Y}), Ancho={Ancho}, Alto={Alto}");
         }
     }
 }
