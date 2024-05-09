@@ -2,7 +2,7 @@ using System.Security.Cryptography;
 using System.Text;
 
 // Leemos el archivo con las contraseñas y lo pasamos a una lista
-List<string> listaPasswords = File.ReadAllLines("C:\\Users\\josem\\Desktop\\PSP\\Recuperacion-PSP\\passwords.txt").ToList();
+List<string> listaPasswords = File.ReadAllLines("C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\passwords.txt").ToList();
 
 Console.Write("Codigo Hash: ");
 string? passwordEncriptada = Console.ReadLine();
@@ -25,7 +25,7 @@ string BruteForce(string hashCode, List<string> passwordList)
 {
     foreach (var privpassword in passwordList)
     {
-        Console.WriteLine(privpassword);
+        //Console.WriteLine(privpassword);
         if (Encrypt(privpassword) == hashCode) return privpassword;
     }
 

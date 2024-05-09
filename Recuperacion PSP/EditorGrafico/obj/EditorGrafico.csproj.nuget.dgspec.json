@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj": {}
+    "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\EditorGrafico\\EditorGrafico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj": {
+    "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\EditorGrafico\\EditorGrafico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
-        "projectName": "Jerarquia de Clases",
-        "projectPath": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
+        "projectUniqueName": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\EditorGrafico\\EditorGrafico.csproj",
+        "projectName": "EditorGrafico",
+        "projectPath": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\EditorGrafico\\EditorGrafico.csproj",
         "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\obj\\",
+        "outputPath": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\EditorGrafico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config"

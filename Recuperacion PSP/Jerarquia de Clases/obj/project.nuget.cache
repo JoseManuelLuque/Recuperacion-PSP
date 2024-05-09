@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VJgc85v26/JjlCNQVstH8WHA36dX7zOfnJ3so80Z6J/SKG6jZuLi5V2AzhyLxlDOap+FNflmv69DWd0dBUMIbA==",
+  "dgSpecHash": "nHzRlKKI+ZTAgkpSCmF2zSf8QSxokfMWrx0jBwcjoWFafT83ceCt/RzhbWarcxLuyPaX8mtIgpMaTxdQSxdarA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josem\\Desktop\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\josem\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\josem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\josem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\josem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\josem\\Escritorio\\PSP\\Recuperacion-PSP\\Recuperacion PSP\\Jerarquia de Clases\\Jerarquia de Clases.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
